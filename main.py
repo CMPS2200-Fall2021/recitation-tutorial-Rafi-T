@@ -1,8 +1,3 @@
-
-
-
-
-
 def sum_of_squares(a):
         mean = sum(a) / len(a)
         result = 0
