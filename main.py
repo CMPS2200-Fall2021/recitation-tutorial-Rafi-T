@@ -22,4 +22,4 @@ def test_two():
 
 
 
-s
+test_one()
